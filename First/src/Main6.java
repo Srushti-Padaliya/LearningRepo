@@ -14,7 +14,7 @@ public class Main6 {
             for (int k = 1; k <= i; k++) {
                 System.out.print(layers - k + 1 );
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }
